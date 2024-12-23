@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nurudeen2432
+- 👋 Hi, I’m Nurudeen Durowade
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML CSS and JavaScript
-- 💞️ I’m looking to collaborate on some on demand projects
+- 🌱 I’m a Full stack Engineer
+- 💞️ I’m looking to collaborate on some on-demand projects
 - 📫 How to reach me ... Via my email: nurudeendurowade@gmail.com and tell no:+2348102308366
 
 <!---
